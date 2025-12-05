@@ -6,4 +6,5 @@ import "fmt" //导入 fmt
 func main(){
 	//使用打印方法 打印一行 hello world
 	fmt.Println("hello world!");
+	fmt.Println("git new branch");
 }
